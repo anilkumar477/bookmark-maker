@@ -1,0 +1,32 @@
+.bg-container{
+    background-color: #43655a;
+    background-size: cover;
+}
+.heading-for-greet{
+    font-size: 40px;
+    color: rosybrown;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.heading-for-intro{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.bg-container1{
+    background-color: #fff;
+    border-top-left-radius: 30PX;
+    border-top-right-radius: 30PX;
+    padding: 30px;
+}
+.err-msg{
+    color: rgb(251, 67, 67);
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.list-container{
+    color: #fff;
+}
+.site-list{
+    background-color: #fff;
+}
